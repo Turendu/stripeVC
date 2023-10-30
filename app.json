@@ -1,0 +1,10 @@
+{
+    "name": "Plataforma Nectica",
+    "description": "Plataforma API de Nectica",
+    "repository": "private",
+    "logo": "https://nectica.com/assets/img/logo/logo-nectica.png",
+    "keywords": [
+        "Plataforma",
+        "Nectica"
+    ]
+}
